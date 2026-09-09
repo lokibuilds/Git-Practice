@@ -1,6 +1,6 @@
 hello Git!!
 I am learning git and github
-git is awesome!!
+Git is REALLY awesome!!
 This change is made on GitHub.
 This line belongs to feature-test.
 
